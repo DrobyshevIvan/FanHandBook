@@ -1,0 +1,261 @@
+[
+  {
+    "AthleteId": "90d9be81-1678-455c-b107-02f75851a074",
+    "FirstName": "Кріштіану",
+    "LastName": "Роналду",
+    "DateOfBirth": "1985-02-05T15:29:19.081",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\ronaldo.jpg",
+    "Height": 187.0,
+    "Weight": 83.0,
+    "Country": "Португалія",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Аль-Наср",
+    "Coach": "Луіш Каштру",
+    "PersonalRecords": [
+      "Кількість голів(857) wr",
+      "Голи в єврокубках(819) wr",
+      "Найкращий бомбардир ЛЧ wr",
+      "Єдиний, хто забив у трьох фіналах ЛЧ "
+    ],
+    "Games": [
+      {
+        "Date": "2024-05-31T15:36:33.03",
+        "Opponent": "Аль-Хилал",
+        "Result": "Програш по пенальті(5:4)"
+      }
+    ]
+  },
+  {
+    "AthleteId": "0a38be85-209c-431f-a6c8-8fe58f51abc9",
+    "FirstName": "Михайло",
+    "LastName": "Мудрик",
+    "DateOfBirth": "2001-01-05T11:59:34.055",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\mudryk.jpg",
+    "Height": 175.0,
+    "Weight": 61.0,
+    "Country": "Україна",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Челсі",
+    "Coach": "Енцо Мареска",
+    "PersonalRecords": [
+      "Чемпіон України(2)"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "e25dd4d3-e850-429f-aaa4-131f038ba7c9",
+    "FirstName": "Андрій",
+    "LastName": "Лунін",
+    "DateOfBirth": "1999-02-11T13:07:16.449",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\lunin.jpg",
+    "Height": 191.0,
+    "Weight": 80.0,
+    "Country": "Україна",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Реал Мадрид",
+    "Coach": "Карло Анчелотті ",
+    "PersonalRecords": [
+      "Перемога в ЛЧ(2)",
+      "Чемпіон Іспанії",
+      "Володар Кубка Іспанії",
+      "Переможець Клубного чемпіонату світу"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "7282e177-8031-48ab-baea-9c455ce4ebfb",
+    "FirstName": "Серхіо",
+    "LastName": "Рамос",
+    "DateOfBirth": "1986-03-30T13:14:44.68",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\ramos.jpg",
+    "Height": 184.0,
+    "Weight": 82.0,
+    "Country": "Іспанія",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Севілья",
+    "Coach": "Кіке Санчес",
+    "PersonalRecords": [
+      "Чемпіон Іспанії(5)",
+      "Володар Кубка Іспанії(2)",
+      "Переможешь ЛЧ(4)",
+      "Переможешь Суперкубка УЕФА(3)"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "9d89cc5a-4811-4a14-b290-e177f737002f",
+    "FirstName": "Олександр",
+    "LastName": "Зінченко",
+    "DateOfBirth": "2024-06-05T13:24:03.4126517+03:00",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\zinchenko.jpg",
+    "Height": 178.0,
+    "Weight": 70.0,
+    "Country": "Україна",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Арсенал",
+    "Coach": "Мікель Артета",
+    "PersonalRecords": [
+      "Чемпіон Англії(4)",
+      "Володар Кубка Англії",
+      "Фіналіст ЛЧ",
+      "Володар Суперкубка Англії"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "66e78aae-1dab-4980-9773-16dea79affb7",
+    "FirstName": "Кіліан",
+    "LastName": "Мбаппе",
+    "DateOfBirth": "1998-12-20T13:27:24.118",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\mbappe.jpg",
+    "Height": 178.0,
+    "Weight": 78.0,
+    "Country": "Франція",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Реал Мадрид",
+    "Coach": "Карло Анчелотті",
+    "PersonalRecords": [
+      "Чемпіон світу",
+      "Чемпіон Європи(U-19)",
+      "Переможешь Ліги націй",
+      "Чемпіон франції(7)"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "71c140bb-fd17-4ddb-a92a-3550b8e90d49",
+    "FirstName": "Ліонель",
+    "LastName": "Мессі",
+    "DateOfBirth": "1987-06-24T13:31:11.527",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\messi.jpg",
+    "Height": 169.0,
+    "Weight": 67.0,
+    "Country": "Аргентина",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Інтер Маямі",
+    "Coach": "Херардо Мартіно",
+    "PersonalRecords": [
+      "Володар «Золотого бутса» (6) wr",
+      "Найбільша кількість золотих мячів (8) wr",
+      "Кількість Хет-Триків у чемпіонаті іспанії(36) wr",
+      "Чемпіон світ",
+      "Олімпійський чемпіон",
+      "Переможець Копа Америка",
+      "Переможець Ліги чемпіонів (4)",
+      "Володар Суперкубка УЄФА (3)",
+      "Чемпіон Іспанії (10) wr"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "c3185633-e93e-46d2-9d92-0b471d919af0",
+    "FirstName": "Тоні",
+    "LastName": "Кроос",
+    "DateOfBirth": "1990-01-04T13:40:13.298",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\kroos.jpg",
+    "Height": 183.0,
+    "Weight": 76.0,
+    "Country": "Німеччина",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Реал Мадрид",
+    "Coach": "Карло Анчелотті",
+    "PersonalRecords": [
+      "Чемпіон Німеччини (3)",
+      "Чемпіон Іспанії (4)",
+      "Переможець Ліги Чемпіонів УЄФА (5)",
+      "Переможець Клубного чемпіонату світу (5)",
+      "Переможець Суперкубка УЄФА (4)"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "c0a7f807-91d0-4881-9184-b9e96433cfe7",
+    "FirstName": "Гаррі",
+    "LastName": "Магвайр",
+    "DateOfBirth": "1993-03-05T13:45:04.822",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\maguire.jpg",
+    "Height": 194.0,
+    "Weight": 90.0,
+    "Country": "Англія",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Манчестер Юнайтед",
+    "Coach": "Ерік тен Гаґ",
+    "PersonalRecords": [
+      "Гравець року «Шеффілд Юнайтед» (3)",
+      "Володар Кубка Англії (1)",
+      "Володар Кубка Футбольної ліги (1)",
+      "Віце-чемпіон Європи: 2020"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "df78982e-4b90-47ba-9036-36658dc219f6",
+    "FirstName": "Джеймі",
+    "LastName": "Варді",
+    "DateOfBirth": "1987-01-11T13:51:14.452",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\vardy.jpg",
+    "Height": 178.0,
+    "Weight": 76.0,
+    "Country": "Англія",
+    "Sport": "Футбол",
+    "ClubOrTeam": "Лестер Сіті",
+    "Coach": "Енцо Мареска",
+    "PersonalRecords": [
+      "Чемпіон Англії (1)",
+      "Володар Кубка Англії (1)",
+      "Володар Суперкубка Англії (1)",
+      "Гравець сезону англійської Прем'єр-ліги (1)"
+    ],
+    "Games": []
+  },
+  {
+    "AthleteId": "27ff7aa8-b24b-4d3f-bf61-4699d5811845",
+    "FirstName": "Усейн",
+    "LastName": "Болт",
+    "DateOfBirth": "1986-08-21T14:47:58.427",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\bolt.jpg",
+    "Height": 195.0,
+    "Weight": 95.0,
+    "Country": "Ямайка",
+    "Sport": "Біг",
+    "ClubOrTeam": "Racers Track Club",
+    "Coach": "Фиц Коулмєн",
+    "PersonalRecords": [
+      "біг 100м (9.58с) wr",
+      "біг 200м (19.19с) wr",
+      "біг 400м (45.28с)"
+    ],
+    "Games": [
+      {
+        "Date": "2008-08-08T15:18:40.621",
+        "Opponent": "ОІ біг 100м",
+        "Result": "Перше місце"
+      }
+    ]
+  },
+  {
+    "AthleteId": "375699c3-a430-4d1a-8fd8-058e12be2abf",
+    "FirstName": "Ярослава",
+    "LastName": "Магучіх",
+    "DateOfBirth": "2001-09-19T14:57:51.349",
+    "PhotoUrl": "C:\\Study\\OPR\\Course\\Course\\photos\\mahuchih.jpg",
+    "Height": 180.0,
+    "Weight": 55.0,
+    "Country": "Україна",
+    "Sport": "Стрибки у висоту",
+    "ClubOrTeam": "-",
+    "Coach": "Тетяна Степанова",
+    "PersonalRecords": [
+      "Чемпіонка світу серед Юнаків",
+      "Чемпіонка світу",
+      "Чемпіонка світу у приміщенні"
+    ],
+    "Games": [
+      {
+        "Date": "2023-08-19T15:08:41.578",
+        "Opponent": "Чемпіонат світу",
+        "Result": "Перше місце"
+      }
+    ]
+  }
+]

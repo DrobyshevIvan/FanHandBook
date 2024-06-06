@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\OPR\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\addgameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addgameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\addgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\addgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\study\\opr\\course\\course\\model\\datamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\model\\datamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\athletecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\athletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\athletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\allathletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\allathletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\addathleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addathleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\addathleteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addathleteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\addathleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addathleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\model\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\model\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\allathletes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\allathletes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\athletedetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletedetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\view\\allathletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\allathletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Study\\OPR\\Course\\course\\course.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\course.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AthleteDetailsForm.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteDetailsForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AthleteDetailsForm.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteDetailsForm.cs",
+              "RelativeToolTip": "Course\\View\\AthleteDetailsForm.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAMwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:23:29.735Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddAthleteForm.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AddAthleteForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddAthleteForm.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AddAthleteForm.cs",
+              "RelativeToolTip": "Course\\View\\AddAthleteForm.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAUwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:33:24.895Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataManagement.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\Model\\DataManagement.cs",
+              "RelativeDocumentMoniker": "Course\\Model\\DataManagement.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\Model\\DataManagement.cs",
+              "RelativeToolTip": "Course\\Model\\DataManagement.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAAJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:58:33.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddAthleteForm.Designer.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AddAthleteForm.Designer.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddAthleteForm.Designer.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AddAthleteForm.Designer.cs",
+              "RelativeToolTip": "Course\\View\\AddAthleteForm.Designer.cs",
+              "ViewState": "AQIAAMsBAAAAAAAAAAAlwNsBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:33:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddAthleteForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AddAthleteForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddAthleteForm.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AddAthleteForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Course\\View\\AddAthleteForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:16:06.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddGameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AddGameForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddGameForm.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AddGameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Course\\View\\AddGameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:26:21.916Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddGameForm.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AddGameForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddGameForm.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AddGameForm.cs",
+              "RelativeToolTip": "Course\\View\\AddGameForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADgvxoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:26:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddGameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AddGameForm.Designer.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddGameForm.Designer.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AddGameForm.Designer.cs",
+              "RelativeToolTip": "Course\\View\\AddGameForm.Designer.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAADgv1EAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:26:53.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AthleteControl.Designer.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteControl.Designer.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AthleteControl.Designer.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteControl.Designer.cs",
+              "RelativeToolTip": "Course\\View\\AthleteControl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:59:30.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AthleteControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteControl.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AthleteControl.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Course\\View\\AthleteControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:09:47.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AthleteControl.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteControl.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AthleteControl.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteControl.cs",
+              "RelativeToolTip": "Course\\View\\AthleteControl.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAMwC0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:59:38.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllAthletes.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AllAthletes.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AllAthletes.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AllAthletes.cs",
+              "RelativeToolTip": "Course\\View\\AllAthletes.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAvwHAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:08:56.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Athlete.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\Model\\Athlete.cs",
+              "RelativeDocumentMoniker": "Course\\Model\\Athlete.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\Model\\Athlete.cs",
+              "RelativeToolTip": "Course\\Model\\Athlete.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAywAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:00:20.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AllAthletes.Designer.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AllAthletes.Designer.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AllAthletes.Designer.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AllAthletes.Designer.cs",
+              "RelativeToolTip": "Course\\View\\AllAthletes.Designer.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:23:35.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AthleteDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteDetailsForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AthleteDetailsForm.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteDetailsForm.cs [Design]",
+              "RelativeToolTip": "Course\\View\\AthleteDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:20:30.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AthleteDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AthleteDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AthleteDetailsForm.Designer.cs",
+              "RelativeToolTip": "Course\\View\\AthleteDetailsForm.Designer.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAAAAAEcBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:29:07.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AllAthletes.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\View\\AllAthletes.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AllAthletes.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\View\\AllAthletes.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Course\\View\\AllAthletes.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:25:13.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\Model\\Game.cs",
+              "RelativeDocumentMoniker": "Course\\Model\\Game.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\Model\\Game.cs",
+              "RelativeToolTip": "Course\\Model\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:31:03.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Course.csproj",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\Course.csproj",
+              "RelativeDocumentMoniker": "Course\\Course.csproj",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\Course.csproj",
+              "RelativeToolTip": "Course\\Course.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T08:59:52.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Study\\OPR\\Course\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "C:\\Study\\OPR\\Course\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:12:48.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
