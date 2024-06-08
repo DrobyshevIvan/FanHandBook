@@ -1,24 +1,29 @@
 using Course.View;
+using Course.Controller;
 
-namespace Course;
-
-public partial class MainMenu : Form
+namespace Course
 {
-    public MainMenu()
+    public partial class MainMenu : Form
     {
-        InitializeComponent();
-    }
+        private AthleteController _athleteController;
 
-    private void btnPlayers_Click(object sender, EventArgs e)
-    {
-        AllAthletes allAthletes = new AllAthletes();
-        Hide();
-        allAthletes.ShowDialog();
-        Close();
-    }
+        public MainMenu()
+        {
+            InitializeComponent();
+            _athleteController = new AthleteController("athletes.json");
+        }
 
-    private void btnExit_Click(object sender, EventArgs e)
-    {
-        Close();
+        private void btnPlayers_Click(object sender, EventArgs e)
+        {
+            AllAthletes allAthletes = new AllAthletes(_athleteController);
+            Hide();
+            allAthletes.ShowDialog();
+            Show();
+        }
+        
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

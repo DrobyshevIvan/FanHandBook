@@ -1,98 +1,104 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Windows.Forms;
+﻿using Course.Controller;
 using Course.Model;
-using Course.Controller;
+using System;
+using System.Collections.Generic;
+using System.Windows.Forms;
 
 namespace Course.View
 {
     public partial class AllAthletes : Form
     {
-        private AthleteController _controller;
+        private AthleteController _athleteController;
 
-        public AllAthletes(AthleteController controller)
+        public AllAthletes(AthleteController athleteController)
         {
             InitializeComponent();
-            _controller = controller;
+            _athleteController = athleteController;
+            LoadAthletes();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void LoadAthletes()
         {
-            string searchQuery = textBox1.Text;
+            List<Athlete> athletes = _athleteController.GetAthletes();
+            DisplayAthletes(athletes);
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            string searchQuery = txtSearch.Text;
             List<Athlete> filteredAthletes = new List<Athlete>();
 
-            if (radioButton1.Checked && comboBox1.SelectedItem?.ToString() == "Зріст")
+            if (radioBtnName.Checked && comboBox.SelectedItem?.ToString() == "Зріст")
             {
                 if (double.TryParse(textBox2.Text, out double minHeight) && double.TryParse(textBox3.Text, out double maxHeight))
                 {
-                    filteredAthletes = _controller.FilterAthletesByNameAndHeight(searchQuery, minHeight, maxHeight);
+                    filteredAthletes = _athleteController.FilterAthletesByNameAndHeight(searchQuery, minHeight, maxHeight);
                 }
             }
-            else if (radioButton1.Checked && comboBox1.SelectedItem?.ToString() == "Рекордсмен")
+            else if (radioBtnName.Checked && comboBox.SelectedItem?.ToString() == "Рекордсмен")
             {
-                filteredAthletes = _controller.FilterAthletesByNameAndRecordHolders(searchQuery, textBox2.Text);
+                filteredAthletes = _athleteController.FilterAthletesByNameAndRecordHolders(searchQuery, textBox2.Text);
             }
-            else if (radioButton1.Checked && comboBox1.SelectedItem?.ToString() == "Досягнення")
+            else if (radioBtnName.Checked && comboBox.SelectedItem?.ToString() == "Досягнення")
             {
-                filteredAthletes = _controller.FilterAthletesByNameAndAchievements(searchQuery, textBox2.Text);
+                filteredAthletes = _athleteController.FilterAthletesByNameAndAchievements(searchQuery, textBox2.Text);
             }
-            else if (radioButton2.Checked && comboBox1.SelectedItem?.ToString() == "Зріст")
+            else if (radioBtnCountry.Checked && comboBox.SelectedItem?.ToString() == "Зріст")
             {
                 if (double.TryParse(textBox2.Text, out double minHeight) && double.TryParse(textBox3.Text, out double maxHeight))
                 {
-                    filteredAthletes = _controller.FilterAthletesByCountryAndHeight(searchQuery, minHeight, maxHeight);
+                    filteredAthletes = _athleteController.FilterAthletesByCountryAndHeight(searchQuery, minHeight, maxHeight);
                 }
             }
-            else if (radioButton2.Checked && comboBox1.SelectedItem?.ToString() == "Рекордсмен")
+            else if (radioBtnCountry.Checked && comboBox.SelectedItem?.ToString() == "Рекордсмен")
             {
-                filteredAthletes = _controller.FilterAthletesByCountryAndRecordHolders(searchQuery, textBox2.Text);
+                filteredAthletes = _athleteController.FilterAthletesByCountryAndRecordHolders(searchQuery, textBox2.Text);
             }
-            else if (radioButton2.Checked && comboBox1.SelectedItem?.ToString() == "Досягнення")
+            else if (radioBtnCountry.Checked && comboBox.SelectedItem?.ToString() == "Досягнення")
             {
-                filteredAthletes = _controller.FilterAthletesByCountryAndAchievements(searchQuery, textBox2.Text);
+                filteredAthletes = _athleteController.FilterAthletesByCountryAndAchievements(searchQuery, textBox2.Text);
             }
-            else if (radioButton3.Checked && comboBox1.SelectedItem?.ToString() == "Зріст")
+            else if (radioBtnSport.Checked && comboBox.SelectedItem?.ToString() == "Зріст")
             {
                 if (double.TryParse(textBox2.Text, out double minHeight) && double.TryParse(textBox3.Text, out double maxHeight))
                 {
-                    filteredAthletes = _controller.FilterAthletesBySportAndHeight(searchQuery, minHeight, maxHeight);
+                    filteredAthletes = _athleteController.FilterAthletesBySportAndHeight(searchQuery, minHeight, maxHeight);
                 }
             }
-            else if (radioButton3.Checked && comboBox1.SelectedItem?.ToString() == "Рекордсмен")
+            else if (radioBtnSport.Checked && comboBox.SelectedItem?.ToString() == "Рекордсмен")
             {
-                filteredAthletes = _controller.FilterAthletesBySportAndRecordHolders(searchQuery, textBox2.Text);
+                filteredAthletes = _athleteController.FilterAthletesBySportAndRecordHolders(searchQuery, textBox2.Text);
             }
-            else if (radioButton3.Checked && comboBox1.SelectedItem?.ToString() == "Досягнення")
+            else if (radioBtnSport.Checked && comboBox.SelectedItem?.ToString() == "Досягнення")
             {
-                filteredAthletes = _controller.FilterAthletesBySportAndAchievements(searchQuery, textBox2.Text);
+                filteredAthletes = _athleteController.FilterAthletesBySportAndAchievements(searchQuery, textBox2.Text);
             }
-            else if (radioButton1.Checked)
+            else if (radioBtnName.Checked)
             {
-                filteredAthletes = _controller.FilterAthletesByName(searchQuery);
+                filteredAthletes = _athleteController.FilterAthletesByName(searchQuery);
             }
-            else if (radioButton2.Checked)
+            else if (radioBtnCountry.Checked)
             {
-                filteredAthletes = _controller.FilterAthletesByCountry(searchQuery);
+                filteredAthletes = _athleteController.FilterAthletesByCountry(searchQuery);
             }
-            else if (radioButton3.Checked)
+            else if (radioBtnSport.Checked)
             {
-                filteredAthletes = _controller.FilterAthletesBySport(searchQuery);
+                filteredAthletes = _athleteController.FilterAthletesBySport(searchQuery);
             }
-            else if (comboBox1.SelectedItem?.ToString() == "Зріст")
+            else if (comboBox.SelectedItem?.ToString() == "Зріст")
             {
                 if (double.TryParse(textBox2.Text, out double minHeight) && double.TryParse(textBox3.Text, out double maxHeight))
                 {
-                    filteredAthletes = _controller.FilterAthletesByHeight(minHeight, maxHeight);
+                    filteredAthletes = _athleteController.FilterAthletesByHeight(minHeight, maxHeight);
                 }
             }
-            else if (comboBox1.SelectedItem?.ToString() == "Рекордсмен")
+            else if (comboBox.SelectedItem?.ToString() == "Рекордсмен")
             {
-                filteredAthletes = _controller.FilterAthletesByRecordHolders(textBox2.Text);
+                filteredAthletes = _athleteController.FilterAthletesByRecordHolders(textBox2.Text);
             }
-            else if (comboBox1.SelectedItem?.ToString() == "Досягнення")
+            else if (comboBox.SelectedItem?.ToString() == "Досягнення")
             {
-                filteredAthletes = _controller.FilterAthletesByAchievements(textBox2.Text);
+                filteredAthletes = _athleteController.FilterAthletesByAchievements(textBox2.Text);
             }
 
             DisplayAthletes(filteredAthletes);
@@ -103,18 +109,26 @@ namespace Course.View
             flowLayoutPanel1.Controls.Clear();
             foreach (var athlete in athletes)
             {
-                var athleteControl = new AthleteControl(athlete, _controller);
+                AthleteControl athleteControl = new AthleteControl(athlete, _athleteController);
                 flowLayoutPanel1.Controls.Add(athleteControl);
+                athleteControl.InfoRequested += (sender, e) =>
+                {
+                    AthleteDetailsForm detailsForm = new AthleteDetailsForm(athlete, _athleteController);
+                    if (detailsForm.ShowDialog() == DialogResult.OK)
+                    {
+                        LoadAthletes();
+                    }
+                };
             }
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void ComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
             textBox2.Text = null;
             textBox3.Text = null;
             textBox2.Visible = false;
             textBox3.Visible = false;
-            switch (comboBox1.SelectedItem?.ToString())
+            switch (comboBox.SelectedItem?.ToString())
             {
                 case "Зріст":
                     textBox2.Visible = true;
@@ -133,14 +147,11 @@ namespace Course.View
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnAdd_Click(object sender, EventArgs e)
         {
-            var addForm = new AddAthleteForm();
+            AddAthleteForm addForm = new AddAthleteForm(_athleteController);
             if (addForm.ShowDialog() == DialogResult.OK)
             {
-                Athlete newAthlete = addForm.NewAthlete;
-                _controller.AddAthlete(newAthlete);
-                MessageBox.Show("Athlete added to the file successfully!");
                 LoadAthletes();
             }
         }
@@ -150,11 +161,11 @@ namespace Course.View
             LoadAthletes();
         }
 
-        private void LoadAthletes()
+        private void btnAllAthletes_Click(object sender, EventArgs e)
         {
-            var athletes = _controller.LoadAllAthletes();
-            DisplayAthletes(athletes);
+            LoadAthletes();
         }
     }
 }
+
 

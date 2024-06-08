@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Study\\OPR\\Course\\Course\\Course.csproj": {}
+    "C:\\Users\\Ivan\\Desktop\\Course\\Course\\Course.csproj": {}
   },
   "projects": {
-    "C:\\Study\\OPR\\Course\\Course\\Course.csproj": {
+    "C:\\Users\\Ivan\\Desktop\\Course\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Study\\OPR\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\Course\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\Study\\OPR\\Course\\Course\\Course.csproj",
+        "projectPath": "C:\\Users\\Ivan\\Desktop\\Course\\Course\\Course.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Study\\OPR\\Course\\Course\\obj\\",
+        "outputPath": "C:\\Users\\Ivan\\Desktop\\Course\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

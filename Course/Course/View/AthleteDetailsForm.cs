@@ -1,53 +1,61 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Course.Controller;
+using Course.Model;
+using System;
 using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
-using Course.Controller;
-using Course.Model;
 
 namespace Course.View
 {
     public partial class AthleteDetailsForm : Form
     {
         private Athlete _athlete;
-        private AthleteController _controller;
+        private AthleteController _athleteController;
 
-        public AthleteDetailsForm(Athlete athlete, AthleteController controller)
+        public AthleteDetailsForm(Athlete athlete, AthleteController athleteController)
         {
             InitializeComponent();
-            _controller = controller;
-            _athlete = athlete ?? throw new ArgumentNullException(nameof(athlete));
+            _athlete = athlete;
+            _athleteController = athleteController;
             DisplayAthleteInfo();
         }
 
         private void DisplayAthleteInfo()
         {
-            lblName.Text = $"Name: {_athlete.FirstName} {_athlete.LastName}";
-            lblDateOfBirth.Text = $"Date of Birth: {_athlete.DateOfBirth.ToShortDateString()}";
-            lblHeight.Text = $"Height: {_athlete.Height} cm";
-            lblWeight.Text = $"Weight: {_athlete.Weight} kg";
-            lblCountry.Text = $"Country: {_athlete.Country}";
-            lblSport.Text = $"Sport: {_athlete.Sport}";
-            lblClubOrTeam.Text = $"Club/Team: {_athlete.ClubOrTeam}";
-            lblCoach.Text = $"Coach: {_athlete.Coach}";
-
-            lblPersonalRecords.Text = string.Join("\n", _athlete.PersonalRecords);
-
-            if (!string.IsNullOrEmpty(_athlete.PhotoUrl) && File.Exists(_athlete.PhotoUrl))
-                pictureBoxPhoto.Image = Image.FromFile(_athlete.PhotoUrl);
-
+            lblName.Text = $"Ім'я: {_athlete.FirstName} {_athlete.LastName}";
+            lblDateOfBirth.Text = $"Дата народження: {_athlete.DateOfBirth.ToShortDateString()}";
+            lblHeight.Text = $"Висота: {_athlete.Height} cm";
+            lblWeight.Text = $"Ширина: {_athlete.Weight} kg";
+            lblCountry.Text = $"Країна: {_athlete.Country}";
+            lblSport.Text = $"Спорт: {_athlete.Sport}";
+            lblClubOrTeam.Text = $"Команда: {_athlete.ClubOrTeam}";
+            lblCoach.Text = $"Тренер: {_athlete.Coach}";
+            
             dataGridViewGames.Rows.Clear();
             foreach (var game in _athlete.Games)
             {
                 dataGridViewGames.Rows.Add(game.Date.ToShortDateString(), game.Opponent, game.Result);
             }
+            
+            lblPersonalRecords.Text = string.Join("\n", _athlete.PersonalRecords);
+            
+            if (!string.IsNullOrEmpty(_athlete.PhotoUrl) && File.Exists(_athlete.PhotoUrl))
+                pictureBoxPhoto.Image = Image.FromFile(_athlete.PhotoUrl);
         }
 
-        private void SaveAthleteData()
+        private void btnEdit_Click(object sender, EventArgs e)
         {
-            _controller.UpdateAthlete(_athlete);
+            AddAthleteForm addForm = new AddAthleteForm(_athleteController);
+            addForm.EditAthlete(_athlete);
+
+            if (addForm.ShowDialog() == DialogResult.OK)
+            {
+                _athlete = addForm.UpdatedAthlete;
+                _athleteController.UpdateAthlete(_athlete);
+                DisplayAthleteInfo();
+                DialogResult = DialogResult.OK;
+            }
         }
 
         private void btnDeleteGame_Click(object sender, EventArgs e)
@@ -63,42 +71,30 @@ namespace Course.View
                 {
                     _athlete.Games.Remove(gameToRemove);
                     dataGridViewGames.Rows.Remove(selectedRow);
-
-                    SaveAthleteData();
+                    _athleteController.UpdateAthlete(_athlete);
                 }
                 else
                 {
-                    MessageBox.Show("Selected game not found.");
+                    MessageBox.Show("Вибрана гра не знайдена!");
                 }
             }
             else
             {
-                MessageBox.Show("Please select a game to delete.");
+                MessageBox.Show("Виберіть гру яку потрібно видалити!");
             }
         }
 
         private void btnAddGame_Click(object sender, EventArgs e)
         {
-            var addGameForm = new AddGameForm();
+            AddGameForm addGameForm = new AddGameForm();
             if (addGameForm.ShowDialog() == DialogResult.OK)
             {
                 var newGame = addGameForm.NewGame;
                 _athlete.Games.Add(newGame);
                 dataGridViewGames.Rows.Add(newGame.Date.ToShortDateString(), newGame.Opponent, newGame.Result);
-
-                SaveAthleteData();
-            }
-        }
-
-        private void btnEdit_Click(object sender, EventArgs e)
-        {
-            var addForm = new AddAthleteForm(_athlete);
-            if (addForm.ShowDialog() == DialogResult.OK)
-            {
-                _athlete = addForm.UpdatedAthlete;
-                SaveAthleteData();
-                DisplayAthleteInfo();
+                _athleteController.UpdateAthlete(_athlete);
             }
         }
     }
 }
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4arquqMEBMLqz7lKEK0uvm8EZf7Ai6pziQv3Tkrj/gm/s42Fpq+MnPqEJwMoc9VNVWBjkbwHXR0ZuY5A2H/ZxQ==",
+  "dgSpecHash": "Rq8MD4VrrZvuu4YIm9nvdFn63jkMMye40shMg/ec1uzrnH660U9n+xNfQWdsxPCne4N3hd0z4YfgT/wPkRfHiA==",
   "success": true,
-  "projectFilePath": "C:\\Study\\OPR\\Course\\Course\\Course.csproj",
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\Course\\Course\\Course.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

@@ -11,23 +11,24 @@ namespace Course.View
 {
     public partial class AddAthleteForm : Form
     {
-        private readonly AthleteController _controller;
+        private AthleteController _athleteController;
         private bool isEditing = false;
         private Athlete athleteToEdit;
 
         public Athlete NewAthlete { get; private set; }
         public Athlete UpdatedAthlete { get; private set; }
 
-        public AddAthleteForm(AthleteController controller)
+        public AddAthleteForm(AthleteController athleteController)
         {
             InitializeComponent();
-            _controller = controller;
+            _athleteController = athleteController;
         }
 
         private void btnSave_Click(object sender, EventArgs e)
         {
             if (isEditing)
             {
+                // випадок редагування спортсмена(оновлення його данних)
                 athleteToEdit.FirstName = txtFirstName.Text;
                 athleteToEdit.LastName = txtLastName.Text;
                 athleteToEdit.DateOfBirth = dateTimePicker1.Value;
@@ -49,10 +50,12 @@ namespace Course.View
                 }
 
                 UpdatedAthlete = athleteToEdit;
-                _controller.UpdateAthlete(UpdatedAthlete);
+                
+                _athleteController.UpdateAthlete(athleteToEdit);
             }
             else
             {
+                // випадок сторвення новго спортсмена
                 var newAthlete = new Athlete
                 {
                     AthleteId = Guid.NewGuid().ToString(),
@@ -78,7 +81,8 @@ namespace Course.View
                 }
 
                 NewAthlete = newAthlete;
-                _controller.AddAthlete(NewAthlete);
+                
+                _athleteController.AddAthlete(newAthlete);
             }
 
             DialogResult = DialogResult.OK;
@@ -162,3 +166,6 @@ namespace Course.View
         }
     }
 }
+
+
+
