@@ -26,7 +26,7 @@ namespace Course.View
             lblName.Text = $"Ім'я: {_athlete.FirstName} {_athlete.LastName}";
             lblDateOfBirth.Text = $"Дата народження: {_athlete.DateOfBirth.ToShortDateString()}";
             lblHeight.Text = $"Висота: {_athlete.Height} cm";
-            lblWeight.Text = $"Ширина: {_athlete.Weight} kg";
+            lblWeight.Text = $"Вага: {_athlete.Weight} kg";
             lblCountry.Text = $"Країна: {_athlete.Country}";
             lblSport.Text = $"Спорт: {_athlete.Sport}";
             lblClubOrTeam.Text = $"Команда: {_athlete.ClubOrTeam}";
