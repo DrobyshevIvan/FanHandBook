@@ -14,7 +14,7 @@ public class Athlete
     public string ClubOrTeam { get; set; }
     public string Coach { get; set; }
     public List<string> PersonalRecords { get; set; }
-    public List<Game> Games { get; set; } = new List<Game>();
+    public List<Game> Games { get; set; }
 
     public Athlete()
     {

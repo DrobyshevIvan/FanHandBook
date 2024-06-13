@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/OnekTbK1i8cYGOq301iv/j0aCdNYSRlEWLmkXEJfwILG17fmtsA1j3KFPgO1hvRfHHDtvVgFn2kisu6TivKA==",
+  "dgSpecHash": "9Afrs8DcH5rL8ichsjBacjsvRATl4OmRQNMulIIhqEQU1E9C984Ien+BQyva2ZssynDkTRyniN5kmaDJg47jrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\Course.csproj",
+  "projectFilePath": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Course.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",

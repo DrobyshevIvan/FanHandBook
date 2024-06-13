@@ -1,21 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\",
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\desktop\\fanhandbook-main\\fanhandbook\\course\\controller\\athletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\controller\\athletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\view\\addathleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addathleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\desktop\\fanhandbook-main\\fanhandbook\\course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\view\\addathleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addathleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\view\\addgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\addgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\desktop\\fanhandbook-main\\fanhandbook\\course\\view\\athletedetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\view\\athletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\view\\allathletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\allathletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\controller\\athletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\controller\\athletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\view\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\view\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\model\\datamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\model\\datamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\documents\\github\\fanhandbook\\fanhandbook\\course\\model\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\model\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\course\\view\\athletedetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletedetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|c:\\users\\ivan\\desktop\\fanhandbook-main\\fanhandbook\\course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ADC0F11D-F81C-4982-974A-26C3A9E253AC}|Course\\Course.csproj|solutionrelative:course\\view\\athletedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -39,23 +83,164 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddAthleteForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AddAthleteForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddAthleteForm.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AddAthleteForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Course\\View\\AddAthleteForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:38:37.97Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:29:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddAthleteForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AddAthleteForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddAthleteForm.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AddAthleteForm.cs",
+              "RelativeToolTip": "Course\\View\\AddAthleteForm.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwDcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:26:59.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddGameForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AddGameForm.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AddGameForm.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AddGameForm.cs",
+              "RelativeToolTip": "Course\\View\\AddGameForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:26:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AthleteControl.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AthleteControl.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AthleteControl.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AthleteControl.cs",
+              "RelativeToolTip": "Course\\View\\AthleteControl.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:23:08.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllAthletes.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AllAthletes.cs",
+              "RelativeDocumentMoniker": "Course\\View\\AllAthletes.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AllAthletes.cs",
+              "RelativeToolTip": "Course\\View\\AllAthletes.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:18:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Course\\View\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\MainMenu.cs",
+              "RelativeToolTip": "Course\\View\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:18:32.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Course\\View\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Course\\View\\MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:18:29.337Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Model\\DataManagement.cs",
+              "RelativeDocumentMoniker": "Course\\Model\\DataManagement.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Model\\DataManagement.cs",
+              "RelativeToolTip": "Course\\Model\\DataManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:17:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Model\\Game.cs",
+              "RelativeDocumentMoniker": "Course\\Model\\Game.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Model\\Game.cs",
+              "RelativeToolTip": "Course\\Model\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:17:26.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Athlete.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Model\\Athlete.cs",
+              "RelativeDocumentMoniker": "Course\\Model\\Athlete.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Model\\Athlete.cs",
+              "RelativeToolTip": "Course\\Model\\Athlete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:16:49.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AthleteController.cs",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\Controller\\AthleteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Controller\\AthleteController.cs",
               "RelativeDocumentMoniker": "Course\\Controller\\AthleteController.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\Controller\\AthleteController.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\Controller\\AthleteController.cs",
               "RelativeToolTip": "Course\\Controller\\AthleteController.cs",
-              "ViewState": "AQIAAIoAAAAAAAAAAAAwwJIAAAApAAAA",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAowLEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T18:43:36.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "AthleteDetailsForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\View\\AthleteDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AthleteDetailsForm.Designer.cs",
               "RelativeDocumentMoniker": "Course\\View\\AthleteDetailsForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\View\\AthleteDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AthleteDetailsForm.Designer.cs",
               "RelativeToolTip": "Course\\View\\AthleteDetailsForm.Designer.cs",
               "ViewState": "AQIAAMAAAAAAAAAAAAAYwNAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,24 +249,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AthleteDetailsForm.cs",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\View\\AthleteDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AthleteDetailsForm.cs",
               "RelativeDocumentMoniker": "Course\\View\\AthleteDetailsForm.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\View\\AthleteDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AthleteDetailsForm.cs",
               "RelativeToolTip": "Course\\View\\AthleteDetailsForm.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAowGIAAAAmAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwGIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T18:38:38.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "AthleteDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\View\\AthleteDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AthleteDetailsForm.cs",
               "RelativeDocumentMoniker": "Course\\View\\AthleteDetailsForm.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\FanHandBook-main\\FanHandBook\\Course\\View\\AthleteDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "ToolTip": "C:\\Users\\Ivan\\Documents\\GitHub\\FanHandBook\\FanHandBook\\Course\\View\\AthleteDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "Course\\View\\AthleteDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T18:38:31.849Z",

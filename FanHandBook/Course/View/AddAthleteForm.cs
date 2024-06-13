@@ -28,7 +28,7 @@ namespace Course.View
         {
             if (isEditing)
             {
-                // випадок редагування спортсмена(оновлення його данних)
+                // випадок редагування спортсмена(оновлення його даних)
                 athleteToEdit.FirstName = txtFirstName.Text;
                 athleteToEdit.LastName = txtLastName.Text;
                 athleteToEdit.DateOfBirth = dateTimePicker1.Value;
@@ -55,7 +55,7 @@ namespace Course.View
             }
             else
             {
-                // випадок сторвення новго спортсмена
+                // випадок створення нового спортсмена
                 var newAthlete = new Athlete
                 {
                     AthleteId = Guid.NewGuid().ToString(),

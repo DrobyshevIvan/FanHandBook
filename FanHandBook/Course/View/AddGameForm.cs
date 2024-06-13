@@ -28,7 +28,7 @@ namespace Course.View
             }
             else
             {
-                MessageBox.Show("Заповінть всі поля");
+                MessageBox.Show("Заповніть всі поля");
             }
         }
     }
